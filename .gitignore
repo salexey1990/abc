@@ -1,0 +1,21 @@
+# Logs
+
+*.log
+/dist
+.jshintrc
+/runtime
+/node_modules
+/doc
+/config/built
+/config/presets/local/*
+/public
+/.idea
+/.vscode
+/main
+/log
+yarnlog.txt
+
+/translation/node_modules
+/translation/dist
+/translation/yarn.lock
+
